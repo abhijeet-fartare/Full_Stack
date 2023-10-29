@@ -1,4 +1,4 @@
-# Full_Stack
+# Full_Stack Project 
 Emplyoee Backend (Spring + Asp.Net) &amp; Frontend (Angular + React)
 
 Using Angular
